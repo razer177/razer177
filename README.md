@@ -1,74 +1,135 @@
-# Hi 👋, I'm Bhargav Haldipur
+<div align="center">
 
-### A Budding Python & Full-Stack Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Bhargav%20Haldipur&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Technical%20Support%20Engineer%20%7C%20Aspiring%20Backend%20Developer&descSize=16&descAlignY=58&descColor=a0a0c0" />
 
-- 📫 How to reach me: **[bhargav.haldipur2004@gmail.com](mailto:bhargav.haldipur2004@gmail.com)**
-- 📄 Resume / Experiences: **[View here](https://drive.google.com/file/d/1YCIWCLoWd9_x1JB6BSM0LidJHkl0rMHo/view?usp=drivesdk)**
+</div>
 
----
+<br/>
 
-## 🔗 Connect with me
+<div align="center">
 
-<p align="left">
-  <a href="https://github.com/razer0x1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40"/></a>
-  <a href="https://linkedin.com/in/bhargav-haldipur" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
-  <a href="https://instagram.com/razer17__" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/></a>
-  <a href="https://twitter.com/17abrazer" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"/></a>
-  <a href="https://youtube.com/@razer17.c" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40"/></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bhargav--haldipur-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhargav-haldipur)
+[![GitHub](https://img.shields.io/badge/GitHub-razer0x1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/razer0x1)
+[![Gmail](https://img.shields.io/badge/Gmail-bhargav.haldipur2004-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhargav.haldipur2004@gmail.com)
+[![Location](https://img.shields.io/badge/Bengaluru-Karnataka-green?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+
+</div>
 
 ---
 
-## 🛠 Languages and Tools
+## 👨‍💻 About Me
 
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com" target="_blank"><img src="https://skillicons.dev/icons?i=c" alt="C" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://www.php.net/" target="_blank"><img src="https://skillicons.dev/icons?i=php" alt="PHP" width="40" height="40"/></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40"/></a>
-</p>
+```python
+bhargav = {
+    "role"      : "Technical Support Engineer @ BlackBuck Ltd.",
+    "goal"      : "Transitioning into Backend / Software Engineering",
+    "stack"     : ["Python", "PHP", "MySQL", "REST APIs", "Linux"],
+    "learning"  : ["FastAPI", "Docker", "System Design"],
+    "based_in"  : "Bengaluru, Karnataka, India",
+    "open_to"   : "Backend roles at product-based companies"
+}
+```
+
+- 🔧 1+ year supporting **GPS fleet operations** — SQL, API logs, incident management
+- 🌐 Built full-stack apps in **PHP, MySQL, JavaScript, and Python**
+- 📈 Aiming for **Software / Backend Engineering** roles
+- 📬 Reach me: **bhargav.haldipur2004@gmail.com**
 
 ---
 
-## 📌 About Me
+## 🛠️ Tech Stack
 
-I’m a **passionate developer** exploring Python, web development, and full-stack technologies. I enjoy **building projects**, learning new frameworks, and sharing knowledge through code. My focus areas include:
+<div align="center">
 
-- Full-stack web development (PHP, JavaScript, SCSS, HTML, CSS)
-- Python scripting and automation
-- Database management (MySQL)
-- Linux development environment and deployment
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frameworks & Libraries**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Databases & Tools**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Projects
+
+### 🎫 [Helpdesk Ticket Management System](https://github.com/razer0x1)
+> PHP · MySQL · Role-based Auth · Admin Dashboard
+
+A web-based IT helpdesk portal for managing support tickets from creation to resolution.  
+Full ticket lifecycle (open → in-progress → resolved), audit logs, SLA tracking, and agent workload monitoring.
+
+---
+
+### 👕 [Washtag — Laundry Management System](https://github.com/razer0x1)
+> PHP · MySQL · Bootstrap · JavaScript
+
+Full-stack laundry service platform with multi-role access (admin, staff, customer).  
+Booking management, order tracking, secure authentication, and a normalized 8-table database schema.
+
+---
+
+### 📡 [API Health Monitor Dashboard](https://github.com/razer0x1)
+> Python · Flask · Requests · CSV/HTML Reports
+
+Polls REST API endpoints at scheduled intervals and logs response time, HTTP status codes, and error rates.  
+Auto-generates health reports so teams can catch degraded services before users do.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=razer0x1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razer0x1&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=razer0x1&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
 ## 💼 Experience
 
-**Cognifyz Technologies**  
-*Web Development Intern*  
-**August 2025 – September 2025 (2 months)** | Nagpur, Maharashtra, India  
-
-- Worked as a Web Development Intern.
-- Gained hands-on experience with PHP, JavaScript, MySQL, and frontend integration.
-- Assisted in building web applications and internal tools for clients.
+| Role | Company | Period |
+|------|---------|--------|
+| 🔵 Technical Support Engineer | BlackBuck Ltd., Bengaluru | Feb 2026 – Present |
+| 🟢 Web Development Intern | Cognifyz Technologies, Remote | Aug 2025 – Sep 2025 |
 
 ---
 
-## 🏆 Projects
+## 🎓 Education & Certification
 
-Some of my projects include:
-
-- **WASHTAG**: A web-based laundry management system using PHP, JS, SCSS, and MySQL.  
-- **SPYCC CHECKER Bot**: Educational bot demonstrating card-format validation and safe payment data handling.  
-
+🎓 **Bachelor of Computer Applications (BCA)** — CGPA 7.75 / 10.0 — 2022–2025
+📜 **Web Development Internship Certificate** — Cognifyz Technologies, 2025
 
 ---
 
-## 💬 Contact Me
+<div align="center">
 
-I’m always open to collaboration, learning, and internship opportunities. Reach out via **email** or **LinkedIn** — I’ll be happy to connect!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=100&section=footer" />
+
+</div>
